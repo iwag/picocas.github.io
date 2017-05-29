@@ -27,4 +27,5 @@ sass:
   sass_dir: css
 timezone: Asia/Tokyo
 title: "@IDA_10 x @miyaokaのピコピコキャスト"
+title_short: "ピコピコキャスト"
 url: https://picocas.github.io
