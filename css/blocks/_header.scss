@@ -1,7 +1,7 @@
 .header {
-  background-image: url(../images/artwork.jpg);
-  background-size: cover;
-  background-position: center;
+  background-image: url(../images/artwork.png);
+  background-position: top center;
+  background-repeat: no-repeat;
 
   &-description {
     color: $color-text-light-secondary;
