@@ -1,12 +1,16 @@
 actors:
   ida_10:
     image_url: /images/actors/ida_10.png
-    name: ida_10
+    name: イダテン
     url: https://twitter.com/IDA_10
   miyaoka:
     image_url: /images/actors/miyaoka.png
-    name: miyaoka
+    name: みやおか
     url: https://twitter.com/miyaoka
+  asa10megumi:
+    image_url: /images/actors/asa10megumi.png
+    name: めぐみさん
+    url: https://twitter.com/asa10megumi
 author: "@IDA_10 x @miyaoka"
 description: 日米のゲーム文化を話すPodcast
 description_long: サンフランシスコのゲーム会社で働くイダテンと、東京のゲーム好きのみやおかが、日米のゲームや文化などを話していくPodcast
