@@ -1,14 +1,14 @@
 actors:
   ida_10:
-    image_url: /images/actors/ida_10.png
+    image_url: /images/actors/ida_10.jpg
     name: イダテン
     url: https://twitter.com/IDA_10
   miyaoka:
-    image_url: /images/actors/miyaoka.png
+    image_url: /images/actors/miyaoka.jpg
     name: みやおか
     url: https://twitter.com/miyaoka
   asa10megumi:
-    image_url: /images/actors/asa10megumi.png
+    image_url: /images/actors/asa10megumi.jpg
     name: めぐみさん
     url: https://twitter.com/asa10megumi
 author: "@IDA_10 x @miyaoka"
