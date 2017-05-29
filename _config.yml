@@ -11,8 +11,12 @@ actors:
     image_url: /images/actors/asa10megumi.jpg
     name: めぐみさん
     url: https://twitter.com/asa10megumi
+  iwmr:
+    image_url: /images/actors/iwmr.jpg
+    name: 咲間岩丸
+    url: https://twitter.com/iwmr
 author: "@IDA_10 x @miyaoka"
-description: 日米のゲーム文化を話すPodcast
+description: 日米のゲームや文化などについて話すPodcast
 description_long: サンフランシスコのゲーム会社で働くイダテンと、東京のゲーム好きのみやおかが、日米のゲームや文化などを話していくPodcast
 email:
 exclude:
